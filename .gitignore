@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Training outputs
+src/checkpoints/
+src/separated_custom/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
