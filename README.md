@@ -98,7 +98,7 @@ Training can be stopped anytime with **Ctrl+C** and resumed by running `python t
 
 ---
 
-## 🎧 Inference (Separate a Song)
+## Inference (Separate a Song)
 
 Use a trained checkpoint:
 
@@ -142,7 +142,7 @@ Users can then run inference **without training**.
 
 ---
 
-## 🛠 Project Structure
+## Project Structure
 
 ```
 src/
@@ -201,4 +201,4 @@ git push
 * audio demo section
 * model download badge
 * training progress graph
-  to make the repo look 🔥
+  to make the repo look
