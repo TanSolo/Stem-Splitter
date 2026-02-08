@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Stem Splitter AI (PyTorch UNet)
 
